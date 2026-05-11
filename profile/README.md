@@ -11,9 +11,9 @@ O ecossistema é dividido em hardware automatizado e uma plataforma web de gest�
 ### 🗂️ Estrutura de Repositórios
 A arquitetura de software do Delta G está dividida nos seguintes módulos:
 
-* 📦 **`delta-g-firmware`** *(Em breve)*: Código C/C++ embarcado no ESP-32 para controle de sensores, atuadores e comunicação MQTT.
-* 🌐 **`delta-g-backend`** *(Em breve)*: API REST e serviços de subscrição MQTT para gerenciamento de dados das salas e kits.
-* 📱 **`delta-g-web`** *(Em breve)*: Interface de usuário (UI) para o painel do professor e acesso via PIN para alunos.
+* 📦 **`IOT-DeltaG`** *(Em breve)*: Código C/C++ embarcado no ESP-32 para controle de sensores, atuadores e comunicação MQTT.
+* 🌐 **`API-DeltaG`** *(Em breve)*: API REST e serviços de subscrição MQTT para gerenciamento de dados das salas e kits.
+* 📱 **`WEB-DeltaG`** *(Em breve)*: Interface de usuário (UI) para o painel do professor e acesso via PIN para alunos.
 
 ---
 *Projeto desenvolvido para modernizar e gamificar a prática laboratorial de mecânica clássica.*
